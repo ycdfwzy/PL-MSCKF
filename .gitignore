@@ -1,0 +1,4 @@
+euroc/*.bag
+build
+lib
+.vscode/
