@@ -1,5 +1,7 @@
-# msckf_mono
-Monocular MSCKF with ROS Support
+# PL-MSCKF
+An integrated point-line feature  based lightweight real-time visual SLAM framework using MSCKF
+
+🚧 Continuous construction
 
 # Requirements
 - ROS Kinetic with Boost, OpenCV and Eigen
